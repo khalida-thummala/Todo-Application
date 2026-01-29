@@ -1,0 +1,17 @@
+{
+  "name": "todo-mvc-app",
+  "version": "1.0.0",
+  "description": "Todo application with MVC architecture",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
